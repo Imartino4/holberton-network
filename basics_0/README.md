@@ -20,3 +20,12 @@
 
 ### What is an IP address?
 * Is to devices connected to a network what postal address is to houses
+
+### Which statement is correct for the TCP box:
+It is a protocol that is transferring data in a slow way but surely
+
+### Which statement is correct for the UDP box:
+It is a protocol that is transferring data in a fast way and might loss data along in the process
+
+### Which statement is correct for the TCP worker:
+May I increase the rate at which I am sending you boxes?
