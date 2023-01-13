@@ -14,3 +14,9 @@ WAN
 
 ## What network do you use when you browse www.google.com from your smartphone (not connected to the Wifi)?
 Internet
+
+## What is a MAC address?
+The unique identifier of a network interface
+
+## What is an IP address?
+Is a number that network devices use to connect to networks
